@@ -1,5 +1,0 @@
-C:\Users\biruk\source\repos\WinFormsApp1\publish_output\WinFormsApp1.pdb
-C:\Users\biruk\source\repos\WinFormsApp1\publish_output\image\image1.png
-C:\Users\biruk\source\repos\WinFormsApp1\publish_output\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\biruk\source\repos\WinFormsApp1\publish_output\libSkiaSharp.dll
-C:\Users\biruk\source\repos\WinFormsApp1\publish_output\WinFormsApp1.exe

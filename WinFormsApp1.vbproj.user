@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Controls\CyberButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Controls\ModernTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\frmAboutUs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmAddProduct.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmAdjustStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmDashboardOverview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmForgotPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmPOS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmPurchase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
